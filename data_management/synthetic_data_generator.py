@@ -5,7 +5,7 @@ or for testing specific scenarios.
 """
 import logging
 import random
-from typing import List, Dict, Any
+from typing import List, Dict, Any, Optional
 from datetime import date, timedelta
 import pandas as pd # For potential complex data generation or output
 

@@ -8,7 +8,7 @@ import logging
 from typing import Dict, Any, Optional, ClassVar
 from pydantic import BaseModel, Field
 
-from ..data_management.schemas import RawMaterialType, ProductionTechnologyType
+from data_management.schemas import RawMaterialType, ProductionTechnologyType
 
 logger = logging.getLogger(__name__)
 

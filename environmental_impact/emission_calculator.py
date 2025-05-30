@@ -7,8 +7,8 @@ and raw material processing (Scope 1, 2, and potentially Scope 3 upstream).
 import logging
 from typing import Dict, Any, Optional
 
-from ..production_technology.technology_models import BaseTechnologyModel, ProductionTechnologyType
-from ..data_management.schemas import RawMaterialType
+from production_technology.technology_models import BaseTechnologyModel, ProductionTechnologyType
+from data_management.schemas import RawMaterialType
 
 logger = logging.getLogger(__name__)
 
