@@ -1,0 +1,16 @@
+# Core libraries
+numpy
+pandas
+scipy
+pydantic
+
+# Plotting and Visualization
+matplotlib
+seaborn
+
+# Optimization (examples, specific libraries might be added later)
+# pulp
+# ortools
+
+# Other utilities
+python-dotenv
